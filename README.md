@@ -2,9 +2,9 @@
 
 ENDPOINTS:
 
-html page: /restaurant/
-user registration: /auth/users/
-token generation: /auth/token/login/
-menu: /restaurant/menu/
-menu item: restaurant/menu/{id}/
-Booking: /restaurant/booking/tables/
+html page: /restaurant/  <br>
+user registration: /auth/users/  <br>
+token generation: /auth/token/login/  <br>
+menu: /restaurant/menu/  <br>
+menu item: /restaurant/menu/{id}/  <br>
+Booking: /restaurant/booking/tables/  
